@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lista1Atividade2</string>
+    <string name="app_icon_desc">Ícone da aplicação</string>
+    <string name="checkbox_desc">Checkbox</string>
+</resources>

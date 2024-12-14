@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lista2Atividade1</string>
+    <string name="action_settings">Acessar Configurações</string>
+    <string name="action_sms">Enviar SMS</string>
+    <string name="action_dial">Discagem de Número</string>
+    <string name="action_map">Abrir Mapas</string>
+</resources>
